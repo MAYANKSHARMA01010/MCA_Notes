@@ -12,3 +12,6 @@ Match the following-1-5marks
 Subjective - 1 question...flexible marking-5markss
 Coding- 2 ques....20min....10marks each
 Bonus - 1 ques
+
+For Contest 1, you have to study till Lecture 6 and Lab 6 (end of Sequential Circuits: Registers & Counters).
+Everything after that—Lecture 7 (Register Files) and Lecture 8 (SRAM/DRAM, Memory & CPU Architectures)—is NOT in Contest 1.
