@@ -1,0 +1,14 @@
+Watch Gate Smashers Videos:
+Minimization: Lec 4, 7, 13, 14
+Combinational: Lec 16, 19, 20, 24, 25
+Number Systems: Lec 15 (Vid 52), Lec 17 (Vid 59)
+Sequential: Lec 27, 29, 33, 37, 42, 45, 48, 49
+
+
+gate level paper MCA 
+Mcq-15ques-1.5*15 marks
+Puzzle- full in the blanks-2 or code - 5 marks
+Match the following-1-5marks
+Subjective - 1 question...flexible marking-5markss
+Coding- 2 ques....20min....10marks each
+Bonus - 1 ques
